@@ -1,8 +1,3 @@
---
--- Arquivo gerado com SQLiteStudio v3.4.17 em sáb nov 29 15:43:04 2025
---
--- Codificação de texto usada: System
---
 PRAGMA foreign_keys = off;
 BEGIN TRANSACTION;
 
